@@ -158,3 +158,44 @@ a {
     color: #E5E7EB;
     font-size: 18px;
 }
+
+.form-container {
+    padding: 160px;
+}
+
+.form {
+    border-radius: 10px;
+    background-color: #3882F6;
+    padding: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color:#E5E7EB
+}
+
+.form button {
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    border-color: #E5E7EB;
+    color: #E5E7EB;
+    border-width: 2px;
+    border-style: solid;
+    background-color: #3882F6;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.form h1 {
+    margin: 0px;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding: 45px;
+    font-size: 18px;
+}
