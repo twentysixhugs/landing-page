@@ -7,7 +7,4 @@ Photo by <a href="https://unsplash.com/@catsanders?utm_source=unsplash&utm_mediu
 
 Photo by <a href="https://unsplash.com/@atrialis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alejandro Contreras</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-Photo by
-https://www.pexels.com/@roshan-kamath-793618?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels
-From Pexels
-https://www.pexels.com/photo/photo-of-perched-parakeet-1661179/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels
+Photo by <a href="https://www.pexels.com/@roshan-kamath-793618?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels">Roshan Kamath</a> on <a href="https://www.pexels.com/photo/photo-of-perched-parakeet-1661179/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels">Pexels</a>
